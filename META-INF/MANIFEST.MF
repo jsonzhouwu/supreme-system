@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ssm_project
+Bundle-SymbolicName: ssm_project
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.lin.baseTest,
+ com.lin.dao,
+ com.lin.domain,
+ com.lin.service,
+ com.lin.service.impl
