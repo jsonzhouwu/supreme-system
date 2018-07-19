@@ -17,7 +17,7 @@ public class UserServiceImpl implements UserService {
 	private UserDao userDao;
 
 	public User selectUserById(String userId) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub zhouwu zhouwu
 		return userDao.selectUserById(userId);
 	}
 
